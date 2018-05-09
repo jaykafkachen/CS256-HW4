@@ -1,0 +1,4 @@
+﻿  CS256-HW4.cpp
+c:\users\j\source\repos\cs256-hw4\cs256-hw4\dice.h(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\j\source\repos\cs256-hw4\cs256-hw4\parking.h(104): warning C4715: 'PoliceOfficer::checkMeter': not all control paths return a value
+  CS256-HW4.vcxproj -> C:\Users\J\source\repos\CS256-HW4\Debug\CS256-HW4.exe
